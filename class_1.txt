@@ -1,0 +1,13 @@
+people
+
+Attributes
+1. staff-roles (string)
+2. max-capacity (integer)
+3. bartender-currently-working (boolean)
+4. customers(integer)
+
+Methods
+1. current-occupancy (counts total number of people in restaurant)
+2. number-of-customers (amount of people in restaurant minus staff)
+3. current-staff-on-floor (number of people working on floor minus back of house employees, management, and customers)
+4. male-to-female-ratio (difference between men and women working)
