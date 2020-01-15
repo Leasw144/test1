@@ -1,0 +1,13 @@
+Meats
+
+Attributes
+1. meat-type (string)
+2. temperature (float)
+3. meat-ready-to-serve (integer)
+4. date-of-purchase (date)
+
+Method
+1. calculate-temperature (calculates temperature)
+2. method of cooking (roast if pork, braise if beef, etc.)
+3. defrost (add meat out for defrost dependent on current meats ready for use)
+4. throw-out (if meat temp purchased 2 weeks after date of purchase, throw out)
