@@ -1,0 +1,13 @@
+West Flanders Brewery
+
+Attributes
+1. staff-roles: ["front of house", "back of house", "management"]
+2. max-capacity: 132
+3. bartender-currently-working = true
+4. customers = 92
+
+Methods
+1. current-occupancy: 98
+2. number-of-customers: 70 (98-18)
+3. current-staff-on-floor: 4 (98-14-70)
+4. male-to-female-ratio: 40:58
