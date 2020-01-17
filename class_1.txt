@@ -1,13 +1,13 @@
 people
 
 Attributes
-1. staff-roles (string)
+1. employees-working-today (integer)
 2. max-capacity (integer)
-3. bartender-currently-working (boolean)
-4. customers(integer)
+3. general-manager (string)
+4. customers (integer)
 
 Methods
 1. current-occupancy (counts total number of people in restaurant)
-2. number-of-customers (amount of people in restaurant minus staff)
-3. current-staff-on-floor (number of people working on floor minus back of house employees, management, and customers)
+2. change-general-manager (changes general manager)
+3. calculate-building-percent-full (customers plus employees-working-today divided by max-capacity)
 4. male-to-female-ratio (difference between men and women working)

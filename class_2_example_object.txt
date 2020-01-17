@@ -2,12 +2,12 @@ Pork
 
 Attributes
 1. meat-type: pork
-2. temperature: 38.9
+2. temperature: 15
 3. meat-ready-to-serve: 30
 4. date-of-purchase: "01/14/2020"
 
 Method
 1. calculate-temperature (38.9)
 2. method-of-cooking: roast
-3. defrost: 12 (meat-ready-to-serve minus 60(max ready-to-serve))
-4. throw-out: no (if meat temp purchased 2 weeks after date of purchase, throw out)
+3. defrost: (keep meat out until temperature has risen to 30 degrees. )
+4. throw-out: no (if meat purchased 2 weeks after date of purchase, throw out)

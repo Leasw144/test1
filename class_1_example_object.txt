@@ -1,13 +1,13 @@
 West Flanders Brewery
 
 Attributes
-1. staff-roles: ["front of house", "back of house", "management"]
+1. employees-working-today: (18)
 2. max-capacity: 132
-3. bartender-currently-working = true
-4. customers = 92
+3. general-manager: (larry)
+4. customers: 92
 
 Methods
 1. current-occupancy: 98
-2. number-of-customers: 70 (98-18)
-3. current-staff-on-floor: 4 (98-14-70)
+2. change-general-manager: general-manager = "Steve"
+3. calculate-building-percent-full: ((92 + 18)/132) = .83
 4. male-to-female-ratio: 40:58

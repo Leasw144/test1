@@ -9,5 +9,5 @@ Attributes
 Method
 1. calculate-temperature (calculates temperature)
 2. method of cooking (roast if pork, braise if beef, etc.)
-3. defrost (add meat out for defrost dependent on current meats ready for use)
-4. throw-out (if meat temp purchased 2 weeks after date of purchase, throw out)
+3. defrost (if meat is under 30 degrees, take meat out of fridge and defrost until temperature is 30 degrees)
+4. throw-out (if meat was purchased 2 weeks after date of purchase, throw out)
