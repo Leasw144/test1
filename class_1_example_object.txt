@@ -7,7 +7,7 @@ Attributes
 4. customers: 92
 
 Methods
-1. current-occupancy: 98
+1. close-restaurant: (new value for customers attribute set to 0 from 92)
 2. change-general-manager: general-manager = "Steve"
 3. calculate-building-percent-full: ((92 + 18)/132) = .83
 4. male-to-female-ratio: 40:58

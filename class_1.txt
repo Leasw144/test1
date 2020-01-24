@@ -7,7 +7,7 @@ Attributes
 4. customers (integer)
 
 Methods
-1. current-occupancy (counts total number of people in restaurant)
+1. close-restaurant (sets customer attribute to 0 by closing restaurant)
 2. change-general-manager (changes general manager)
 3. calculate-building-percent-full (customers plus employees-working-today divided by max-capacity)
 4. male-to-female-ratio (difference between men and women working)
